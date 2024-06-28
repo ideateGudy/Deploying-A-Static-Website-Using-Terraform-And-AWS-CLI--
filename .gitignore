@@ -1,0 +1,11 @@
+#ignore terraform folder that contains provider
+.terraform/*
+.terraform.lock.hcl
+terraform.tfstate.backup
+
+#ignore all terraform state
+*.tfstate
+.tfstate.
+
+#ignore tfvars
+*.tfvars
