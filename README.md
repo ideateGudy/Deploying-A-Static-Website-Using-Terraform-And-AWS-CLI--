@@ -48,6 +48,6 @@ Creates a private s3 bucket and copies a contents of a local directory to the s3
 > I'll continue to work on this to connect domain name to serve my s3 bucket website. 
 
 
-![cloudfront page](img/'Screenshot 2024-06-28 200443.jpg')
-![cloudfront distribution](img/'Screenshot 2024-06-28 201038.jpg')
-![certificate](img/'Screenshot 2024-06-28 201012.jpg')
+![cloudfront page](./img/'Screenshot 2024-06-28 200443.jpg')
+![cloudfront distribution](./img/'Screenshot 2024-06-28 201038.jpg')
+![certificate](./img/'Screenshot 2024-06-28 201012.jpg')
