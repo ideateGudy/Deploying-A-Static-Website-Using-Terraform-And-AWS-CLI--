@@ -44,9 +44,9 @@ Creates a private s3 bucket and copies a contents of a local directory to the s3
 - Creates a validated Certificate that would be used to serve your website content securely using domain name (https)
 
 ### Conclusion and further modification
-> Though i was not able to get the domain name to display my s3 website content due to time factor.
-> When i inspected my aws console i noticed the cloudfront distribution was not linked to the certificate for my domain name
-> I'll continue to work on this to connect domain name to serve my s3 bucket website. 
+- Though i was not able to get the domain name to display my s3 website content due to time factor.
+- When i inspected my aws console i noticed the cloudfront distribution was not linked to the certificate for my domain name
+- I'll continue to work on this to connect domain name to serve my s3 bucket website. 
 
 ## Screenshots
 
