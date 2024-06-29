@@ -47,6 +47,7 @@ Creates a private s3 bucket and copies a contents of a local directory to the s3
 > Though i was not able to get the domain name to display my s3 website content due to time factor.
 > I'll continue to work on this to connect domain name to serve my s3 bucket website. 
 
+## Screenshots
 
 ![cloudfront website](./img/Screenshot%202024-06-28%20200443.jpg)
 ![cloudfront distribution](./img/Screenshot%202024-06-28%20201038.jpg)
