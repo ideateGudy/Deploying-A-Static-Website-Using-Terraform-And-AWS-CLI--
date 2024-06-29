@@ -34,7 +34,9 @@ I installed and configured AWS CLI on my window machine so i can communicate dir
 ### The Major resources are divided into modules and each module performs a unique task
 
 ## `S3_BUCKET MODULE:`
-Creates a private s3 bucket and copies a contents of a local directory to the s3 bucket
+- Creates a private s3 bucket 
+- Copies the contents of a local directory to the s3 bucket by looping through each of the files
+
 ## `CLOUDFRONT MODULE`
 - Creates a Cloudfront Distribution to serve website contents faster
 - Uses the origin access control (OAC) policy to serve private  s3 bucket website files.
