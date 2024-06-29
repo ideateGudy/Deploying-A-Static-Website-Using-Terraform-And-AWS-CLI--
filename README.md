@@ -42,9 +42,11 @@ Creates a private s3 bucket and copies a contents of a local directory to the s3
 ## `ROUTE53 MODULE`
 - Creates hosted zone for your domain name
 - Creates a validated Certificate that would be used to serve your website content securely using domain name (https)
+- Certificate was successfully issued to domain name
 
 ### Conclusion and further modification
 - Though i was not able to get the domain name to display my s3 website content due to time factor.
+- I got a route53 error page when i tried to access the website using domain name.
 - When i inspected my aws console i noticed the cloudfront distribution was not linked to the certificate for my domain name
 - I'll continue to work on this to connect domain name to serve my s3 bucket website. 
 
